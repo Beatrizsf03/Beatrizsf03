@@ -32,7 +32,7 @@ Hi there 👋
 
 - 🖥️ Future FullStack developer
 - 🎓 studying Systems Analysis and Development at Universidade Anhembi Morumbi
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ... reactJS mongoDB
 
 
 
