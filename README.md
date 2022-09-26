@@ -20,7 +20,7 @@ Hi there 👋
 <div> 
 
   <a href = "mailto:beatrizsouzaf.512@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href=" www.linkedin.com/in/beatrizsf03" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  
   ![Snake animation](https://github.com/Beatrizsf03/Beatrizsf03/blob/output/github-contribution-grid-snake.svg)
@@ -32,7 +32,7 @@ Hi there 👋
 
 - 🖥️ Future FullStack developer
 - 🎓 studying Systems Analysis and Development at Universidade Anhembi Morumbi
-- 🌱 I’m currently learning ... reactJS mongoDB
+- 🌱 I’m currently learning React and MongoDB
 
 
 
