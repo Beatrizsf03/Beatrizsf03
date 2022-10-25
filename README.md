@@ -1,4 +1,4 @@
-Hi there 👋
+# Hi there 👋
 
 <div align="center">
   <a href="https://github.com/Beatrizsf03">
@@ -11,6 +11,8 @@ Hi there 👋
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="NODE.JS" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   
 <img align="right" src="https://i.picasion.com/pic92/043b95191ddfca0ffd33a5122d2ccec2.gif" width="150" height="150" border-radius="50px" alt="https://picasion.com/" /></a>
 </div>
@@ -31,7 +33,7 @@ Hi there 👋
 
 
 - 🖥️ Future FullStack developer
-- 🎓 studying Systems Analysis and Development at Universidade Anhembi Morumbi
+- 🎓 Studying Systems Analysis and Development at Universidade Anhembi Morumbi
 - 🌱 I’m currently learning React and MongoDB
 
 
